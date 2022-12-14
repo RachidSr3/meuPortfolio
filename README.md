@@ -2,7 +2,7 @@
 Apresentação original do meu portfolio 
 ### Olá me chamo Sérgio Rachid e você está sintonizado no meu Github, Seja muito bem vindo!![Hi](https://user-images.githubusercontent.com/100804986/207719892-64d79d0e-06eb-439d-9962-91581842b401.gif)</h2>
 <p align="center">
-![Em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)</p>
+!?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)</p>
 <center>
 <table>
     <tr>
