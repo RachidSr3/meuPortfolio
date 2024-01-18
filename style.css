@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{
+
 /*Desktop layout sizes */
 @media only screen and (max-width: 1025px) {
 } 
@@ -496,4 +501,4 @@ a {
     
   }
    
-
+}}";
