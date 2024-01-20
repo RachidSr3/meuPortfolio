@@ -177,7 +177,15 @@ a {
     padding: 3rem 0;
 }
 
-
+.backphoto{
+  background: url(./trilhanaestrada.jpg);
+  padding-top: 40em;
+  padding-bottom: 40em;
+  margin-top: 20em;
+  background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
 
 .container{
    margin: 5rem 15rem ;
@@ -187,26 +195,72 @@ a {
    background-color: aliceblue;
 }
 
-.pfont{
-    position: relative;
-    left: 12rem;
-    top: 27px;
-    font-size: 24px;
-    font-weight: bold;
-    font-family: 'IM Fell English SC', serif;
-    color:rgb(103, 43, 181);
-    text-shadow: 2px 2px 6px rgb(219, 218, 218);
+.DivI{
+  display: flex;
+  margin: 10px;
+  height: 80px; /*toda vez que for abrir uma div
+  deve se justificar altura e largura*/ 
+  
+ }
 
+ .oll{
+  margin-left: 50px;
+  margin-bottom: 10px;
+
+ }
+
+ .olll{
+  margin-left: 50px;
+ margin-bottom: 20px;
+ }
+
+.pfont{
+  position: relative;
+  margin:50px 100px;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'IM Fell English SC', serif;
+  color:rgb(103, 43, 181);
+  text-shadow: 2px 2px 6px rgb(219, 218, 218);
 }
+
+
+
 .pfontI{
-    position: relative;
-    left: 35rem;
-    bottom: 4.20rem;
-    font-size: 24px;
-    font-weight: bold;
-    font-family: 'IM Fell English SC', serif;
-    color:rgb(103, 43, 181);
-    text-shadow: 2px 2px 6px rgb(219, 218, 218);
+position: relative;
+margin:50px 90px;
+font-size: 24px;
+font-weight: bold;
+font-family: 'IM Fell English SC', serif;
+color:rgb(103, 43, 181);
+text-shadow: 2px 2px 6px rgb(219, 218, 218);
+}
+
+
+.DivII{
+  display: flex;
+  margin: 10px;
+  height: 40px;
+ }
+
+.pfontII{
+  position: relative;
+  margin: 50px 110px;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'IM Fell English SC', serif;
+  color:rgb(103, 43, 181);
+  text-shadow: 2px 2px 6px rgb(219, 218, 218);
+}
+
+.pfontIII{
+  position: relative;
+  margin:50px 110px;
+  font-size: 24px;
+  font-weight: bold;
+  font-family: 'IM Fell English SC', serif;
+  color:rgb(103, 43, 181);
+  text-shadow: 2px 2px 6px rgb(219, 218, 218);
 }
 
 .p1{
@@ -354,7 +408,7 @@ left: 12rem;
 
   .box{
     width: 70rem;
-    height: 34rem;
+    height: 40rem;
     margin: 4rem 10rem 8rem;
     padding: 0 1rem 0;
     border-radius:25px 25px;
@@ -390,3 +444,4 @@ left: 12rem;
 }
    
 
+0
