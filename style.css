@@ -1,22 +1,19 @@
-/*Desktop layout sizes */
-@media only screen and (max-width: 1025px) {
-} 
 
-/*laptop*/
-@media only screen and (max-width:600px) {
+
+@media (min-width:768px) {
+  
+  
+
+  .h1{
+    font-size: 10px;
+    margin: 10px 10px;
+  }
+  .boxI{
+    margin: 10px 20px;
+  }
+
 }
 
-/*Tablet LandScapes*/
-@media only screen and (min-width:768px) and (max-width:1024px) {
-}
-
-/*Phone Landscape*/
-@media only screen and (min-width:321px) and (max-width: 600px) {
-}
-
-/*Typical Phone Portrait*/
-@media only screen and (max-width:320px) {
-}
 
 
 
@@ -155,11 +152,12 @@ a {
    
     
 .section{
-  height: 400rem; 
+  height: 290rem; 
   width: 95.50rem;
 }
 
-/* 2a Section */
+
+
 .backgrnd-img{
   background: url(./mirante.jpg);
   padding-top: 40em;
@@ -181,7 +179,7 @@ a {
   background: url(./trilhanaestrada.jpg);
   padding-top: 40em;
   padding-bottom: 40em;
-  margin-top: 20em;
+  margin-top: 10em;
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
@@ -359,7 +357,8 @@ left: 12rem;
 
   .h1{
     color:rgb(205, 205, 205); 
-    padding: 3rem 0 0rem 9rem; 
+    margin-top: 0px;
+    padding: 4rem 0 0rem 9rem; 
     font-family: 'IM Fell English SC', serif;
     font-size: 3rem;
   }
@@ -399,7 +398,7 @@ left: 12rem;
     border-radius: 25px;
     margin: 2rem 0rem 4rem 3.50rem;
     background: linear-gradient(70deg, rgb(0, 0, 0), rgba(3, 63, 115, 0.56), rgba(116, 119, 116, 0.977));
-    -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     font-weight: 700;
     background-color: transparent;
@@ -408,7 +407,7 @@ left: 12rem;
 
   .box{
     width: 70rem;
-    height: 40rem;
+    height: 48rem;
     margin: 4rem 10rem 8rem;
     padding: 0 1rem 0;
     border-radius:25px 25px;
@@ -427,6 +426,8 @@ left: 12rem;
     font-size: 1.27em;
     font-weight: 600;
     padding:3rem 1rem 0px;
+    word-wrap: break-word;
+    line-height: 1.5;
     background: linear-gradient(180deg,white, #98cffd, #85e0fc);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -444,4 +445,3 @@ left: 12rem;
 }
    
 
-0
